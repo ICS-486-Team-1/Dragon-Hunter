@@ -55,3 +55,4 @@ Augmented Reality Game created in Fall 2020 by ICS 486 Team 1
 - add smoke trail visual effect to rocket
 - add in dragon boss
 - possibly increase speed of dragons as score rises?
+- increase number of spawned dragons / add more levels to the game
