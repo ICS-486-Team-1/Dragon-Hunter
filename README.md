@@ -1,7 +1,10 @@
 # Dragon-Hunter
 Augmented Reality Game created in Fall 2020 by ICS 486 Team 1
+  * coded scripts using C#
+  * most assets found free on Unity Asset Store
+  * idea and beginning code of project based on [this Pokemon GO AR Tutorial](https://code.tutsplus.com/tutorials/pokemon-go-style-augmented-reality-with-vuforia-part-2--cms-27232)
 
-## Video List & Descriptions
+## Video List & Descriptions (found in Videos Folder)
 
 ### v1.0
 - able to spawn dragons
