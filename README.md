@@ -1,8 +1,14 @@
 # Dragon-Hunter
 Augmented Reality Game created in Fall 2020 by ICS 486 Team 1
-  * coded scripts using C#
-  * most assets found free on Unity Asset Store
-  * idea and beginning code of project based on [this Pokemon GO AR Tutorial](https://code.tutsplus.com/tutorials/pokemon-go-style-augmented-reality-with-vuforia-part-2--cms-27232)
+- coded scripts using C#
+- most assets found free on Unity Asset Store
+- idea and beginning code of project based on [this Pokemon GO AR Tutorial](https://code.tutsplus.com/tutorials/pokemon-go-style-augmented-reality-with-vuforia-part-2--cms-27232)
+
+## Applications Used
+- Unity v2019.3.0f6
+- VSCode
+- IntelliJ
+- XCode
 
 ## Video List & Descriptions (found in Videos Folder)
 
@@ -42,3 +48,10 @@ Augmented Reality Game created in Fall 2020 by ICS 486 Team 1
   * quit button to return to home screen
 - update main menu quit button to exit button
 - update ui of buttons 
+
+## Future Implementations (if we were to revisit)
+- add in health bar feature for user to set limit on time of play
+  * to help user heal, add in potions that users can shoot at to regain health
+- add smoke trail visual effect to rocket
+- add in dragon boss
+- possibly increase speed of dragons as score rises?
